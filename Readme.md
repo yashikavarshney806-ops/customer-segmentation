@@ -1,9 +1,4 @@
 
----
-
-# 🔹 **TASK 2 – README (Customer Segmentation)**
-
-```markdown
 # 👥 Customer Segmentation using K-Means
 
 It focuses on clustering customers based on behavior and spending patterns.
